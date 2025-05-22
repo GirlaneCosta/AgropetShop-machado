@@ -3,6 +3,7 @@
  🚀 Tecnologias Utilizadas
 
  - React.js
+ - JavaScript
 - HTML5
 - CSS3
 - Vite
