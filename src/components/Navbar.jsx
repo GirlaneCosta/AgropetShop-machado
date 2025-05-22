@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { FiMenu, FiX } from "react-icons/fi";
 
-const NavBar = () => {
+const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
@@ -41,4 +41,4 @@ const NavBar = () => {
   );
 };
 
-export default NavBar;
+export default Navbar;
