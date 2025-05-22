@@ -1,12 +1,57 @@
-# React + Vite
+🐾 Agropet Shop Machado
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ 🚀 Tecnologias Utilizadas
 
-Currently, two official plugins are available:
+ - React.js
+- HTML5
+- CSS3
+- Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📸 Funcionalidades
 
-## Expanding the ESLint configuration
+- Navegação com menu responsivo
+  
+- Seções de serviços de banho, tosa e produtos
+  
+- Cards de serviços com imagens e preços
+  
+- Botão de WhatsApp fixo para contato direto
+  
+- Botão "Voltar ao topo"
+  
+- Estilização moderna e responsiva
+  
+- Scroll suave entre seções
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Responsividade
+
+O site foi desenvolvido para funcionar perfeitamente em:
+
+- Desktops
+  
+- Tablets
+  
+- Smartphones
+
+🛠️ Melhorias futuras
+Página de administração
+
+Integração com backend para cadastro de serviços
+
+Formulário de agendamento com envio para WhatsApp
+
+  📂 Como rodar o projeto
+
+```bash
+Clone o repositório
+git clone https://github.com/GirlaneCosta/AgropetShop-machado.git
+
+Acesse a pasta do projeto
+cd AgropetShop-machado
+
+Instale as dependências
+npm install
+
+Inicie o servidor de desenvolvimento
+npm run dev
+
