@@ -1,6 +1,6 @@
 import { FaWhatsapp, FaArrowUp } from "react-icons/fa";
 import "./App.css";
-import NavBar from "./components/Navbar";
+import Navbar from "./components/Navbar";
 import Servicos from "./components/Servicos";
 import ServicosTosas from "./components/ServicosTosas";
 import Adicionais from "./components/Adicionais";
